@@ -3,7 +3,7 @@
 
 # **AGO**: **A**daptive **G**rounding for **O**pen World 3D Occupancy Prediction
 
-[**ICCV 2025**]()
+[**ICCV 2025**](https://iccv.thecvf.com/)
 
 [Peizheng Li](https://edwardleelpz.github.io/), [Shuxiao Ding](https://dsx0511.github.io/), [You Zhou](https://scholar.google.com/citations?user=DAuIVp8AAAAJ&hl=en), [Qingwen Zhang](https://kin-zhang.github.io/), [Onat Inak](https://openreview.net/profile?id=~Onat_Inak1), [Larissa Triess](https://larissa.triess.eu/), [Niklas Hanselmann](https://lasnik.github.io/), [Marius Cordts](https://scholar.google.com/citations?user=RM0ik8wAAAAJ&hl=en&oi=ao), [Andreas Zell](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/kognitive-systeme/the-chair/staff/prof-dr-andreas-zell/)  
 
@@ -31,9 +31,7 @@ AGO is released under the MIT license. Please see the [LICENSE](LICENSE) file fo
 @article{li2025ago,
   title={AGO: Adaptive Grounding for Open World 3D Occupancy Prediction},
   author={Li, Peizheng and Ding, Shuxiao and Zhou, You and Zhang, Qingwen and Inak, Onat and Triess, Larissa and Hanselmann, Niklas and Cordts, Marius and Zell, Andreas},
-  journal={arXiv preprint arXiv:2504.10117},
+  booktitle={Proceedings of the IEEE/CVF international conference on computer vision},
   year={2025}
 }
 ```
-
-
